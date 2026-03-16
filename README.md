@@ -1,5 +1,9 @@
 # Philiprehberger.Semver
 
+[![CI](https://github.com/philiprehberger/dotnet-semver/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-semver/actions/workflows/ci.yml)
+[![NuGet](https://img.shields.io/nuget/v/Philiprehberger.Semver.svg)](https://www.nuget.org/packages/Philiprehberger.Semver)
+[![License](https://img.shields.io/github/license/philiprehberger/dotnet-semver)](LICENSE)
+
 Semantic versioning parser, comparator, and range matcher — fully compliant with the semver 2.0 spec.
 
 ## Install
