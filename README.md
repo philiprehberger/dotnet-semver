@@ -131,6 +131,12 @@ var version = JsonSerializer.Deserialize<SemVersion>(json, options);
 | `Read(...)` | Deserialize a JSON string to `SemVersion` |
 | `Write(...)` | Serialize a `SemVersion` to a JSON string |
 
+## Development
+
+```bash
+dotnet build src/Philiprehberger.Semver.csproj --configuration Release
+```
+
 ## License
 
 MIT
