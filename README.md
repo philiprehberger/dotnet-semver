@@ -6,7 +6,7 @@
 
 Semantic versioning parser, comparator, and range matcher — fully compliant with the semver 2.0 spec.
 
-## Install
+## Installation
 
 ```bash
 dotnet add package Philiprehberger.Semver
