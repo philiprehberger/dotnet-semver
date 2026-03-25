@@ -7,9 +7,9 @@
     <LangVersion>latest</LangVersion>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <PackageId>Philiprehberger.Semver</PackageId>
-    <Version>0.1.5</Version>
+    <Version>0.1.6</Version>
     <Authors>Philip Rehberger</Authors>
-    <Description>Semantic versioning parser, comparator, and range matcher — fully compliant with the semver 2.0 spec</Description>
+    <Description>Semantic versioning parser, comparator, and range matcher — fully compliant with the semver 2.0 spec.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/philiprehberger/dotnet-semver</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
